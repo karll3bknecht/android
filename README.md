@@ -10,3 +10,5 @@ ButtFish-dev start
 built with react-poll-widget. MIT.
 
 > because existing tools were bloated
+
+# PR Merge: 2025-10-24 - docs/merge-3934
